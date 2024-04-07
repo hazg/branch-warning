@@ -3,6 +3,10 @@
   "displayName": "Branch warning",
   "description": "Gives a warning in the statusbar that you are in the main or master branches",
   "version": "0.0.1",
+  "repository": {
+    "url": "https://github.com/hazg/branch-warning",
+    "type": "git"
+  },
   "engines": {
     "vscode": "^1.87.0"
   },
