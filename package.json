@@ -4,11 +4,12 @@
   "description": "Gives a warning in the statusbar that you are in the main or master branches",
   "author": {"name": "hazg" , "url": "https://github.com/hazg"},
   "publisher": "hazg",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "repository": {
     "url": "https://github.com/hazg/branch-warning",
     "type": "git"
   },
+  "icon": "images/icon.png",
   "engines": {
     "vscode": "^1.87.0"
   },
