@@ -2,6 +2,8 @@
   "name": "branch-warning",
   "displayName": "Branch warning",
   "description": "Gives a warning in the statusbar that you are in the main or master branches",
+  "author": {"name": "hazg" , "url": "https://github.com/hazg"},
+  "publisher": "hazg",
   "version": "0.0.1",
   "repository": {
     "url": "https://github.com/hazg/branch-warning",
